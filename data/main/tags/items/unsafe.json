@@ -1,0 +1,10 @@
+{
+    "values": [
+        "minecart",
+        "tnt_minecart",
+        "allay_spawn_egg",
+        "#minecraft:spawn_eggs",
+        "end_crystal",
+        "respawn_anchor"
+    ]
+}

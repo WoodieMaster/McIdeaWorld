@@ -1,0 +1,1 @@
+execute as @e[tag=cube_base] at @s run function cubes:update/cube/self

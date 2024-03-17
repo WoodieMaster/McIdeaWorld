@@ -1,0 +1,2 @@
+execute if score cubes active_sections matches 1 unless entity @a[scores={current_section=1}] run function cubes:section/disable
+execute if score dungeon active_sections matches 1 unless entity @a[scores={current_section=2}] run function dungeon:section/disable

@@ -1,0 +1,28 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:player_interacted_with_entity",
+        "conditions": {
+          "player": [],
+          "entity": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "nbt": "{Tags:[\"cube_base\"]}"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "a"
+      ]
+    ],
+    "rewards": {
+      "function": "cubes:trigger/interact"
+    }
+  }
+  

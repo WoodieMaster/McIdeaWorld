@@ -1,0 +1,21 @@
+{
+    "values": [
+        "air",
+        "#cubes:conveyor_belt",
+        "tripwire",
+        "tripwire_hook",
+        "#minecraft:flowers",
+        "#minecraft:tall_flowers",
+        "redstone_wire",
+        "comparator",
+        "repeater",
+        "#minecraft:crops",
+        "#signs",
+        "#all_hanging_signs",
+        "#small_flowers",
+        "#tall_flowers",
+        "#saplings",
+        "spore_blossom",
+        "pink_petals"
+    ]
+}

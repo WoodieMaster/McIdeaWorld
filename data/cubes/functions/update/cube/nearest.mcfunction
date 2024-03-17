@@ -1,0 +1,1 @@
+execute as @e[tag=cube_base,limit=1,sort=nearest] at @s run function cubes:update/cube/self

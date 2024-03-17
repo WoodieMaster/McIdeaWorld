@@ -1,0 +1,9 @@
+give @s shulker_spawn_egg{EntityTag:{id:"marker",Tags:["cube_spawn","safe"]},safe:1b,display:{Name:'{"text": "Cube","color": "dark_purple","italic": false}',Lore:['{"text": "Right click to place cube"}']}}
+give @s iron_trapdoor{BlockStateTag:{open:"false"},display:{Name:'{"text": "Horizontal Conveyor Belt","color": "aqua","italic": false}',Lore:['{"text": "Move cubes horizontally"}']}}
+give @s iron_trapdoor{BlockStateTag:{open:"true"},display:{Name:'{"text": "Vertical Conveyor Belt","color": "aqua","italic": false}',Lore:['{"text": "Move cubes up and down"}']}}
+give @s orange_carpet{display:{Name:'{"text": "Speed","color": "#FF8800","italic": false}',Lore:['{"text": "Speed up cubes, to go 5x fast"}']}}
+give @s purple_carpet{display:{Name:'{"text": "TP Down","color": "light_purple","italic": false}',Lore:['{"text": "TP Cubes downwards to the next"}','{"text":"conveyor_belt/special block,"}','{"text":"to a maximum of 10 blocks "}']}}
+give @s magenta_carpet{display:{Name:'{"text": "TP Forward","color": "light_purple","italic": false}',Lore:['{"text": "TP Cubes forward to the next"}','{"text":"conveyor_belt/special block,"}','{"text":"to a maximum of 10 blocks "}']}}
+give @s pink_carpet{display:{Name:'{"text": "TP Up","color": "light_purple","italic": false}',Lore:['{"text": "TP Cubes upwards to the next"}','{"text":"conveyor_belt/special block,"}','{"text":"to a maximum of 10 blocks "}']}}
+give @s red_carpet{display:{Name:'{"text": "Destroy","color": "dark_red","italic": false}',Lore:['{"text": "Destroys a cube moving onto"}','{"text":"this block, and dropping it as a block"}']}}
+give @s target{display:{Name:'{"text": "Detector","color": "red","italic": false}',Lore:['{"text": "Place underneath a conveyor"}','{"text":"belt to detect cubes by"}','{"text":"outputting a redstone signal"}']}}
